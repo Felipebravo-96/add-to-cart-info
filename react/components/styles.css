@@ -1,0 +1,6 @@
+.container{
+    padding: 10px;
+}
+.container__item{
+    margin-bottom: 1px solid #eee;
+}
