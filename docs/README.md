@@ -14,7 +14,7 @@ Add to your `manifest.json` the dependency `itgloberspartnercl.add-to-cart-info`
 
 ### Step 2
 
-To declare this component you must configure the following properties.
+Declare the component
 
 
 ## Use 
