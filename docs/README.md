@@ -26,18 +26,3 @@ To declare this component you must configure the following properties.
   }
 }
 ```
-
-## Customization
-
-
-| CSS Handles |
-| ----------- | 
-| `XXXXX` | 
-| `XXXXX` | 
-| `XXXXX` | 
-| `XXXXX` | 
-| `XXXXX` |
-
-
-
-
